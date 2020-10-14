@@ -1,0 +1,16 @@
+PODS:
+  - GreyCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - GreyCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  GreyCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GreyCategoryKit: 29658f638319169c4f29296687964e82fddac096
+
+PODFILE CHECKSUM: 5e5e2f5345e8b4169011fc5945d2647f57b3b50c
+
+COCOAPODS: 1.8.4

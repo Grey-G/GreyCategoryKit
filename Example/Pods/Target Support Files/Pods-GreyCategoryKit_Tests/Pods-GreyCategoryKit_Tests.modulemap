@@ -1,0 +1,6 @@
+framework module Pods_GreyCategoryKit_Tests {
+  umbrella header "Pods-GreyCategoryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

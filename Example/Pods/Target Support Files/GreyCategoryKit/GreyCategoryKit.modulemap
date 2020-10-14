@@ -1,0 +1,6 @@
+framework module GreyCategoryKit {
+  umbrella header "GreyCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
